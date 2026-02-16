@@ -43,5 +43,5 @@ This project demonstrates GUI development, event handling, file operations, and 
 
 ---
 
-## 📂 Project Structure
+ 
 
